@@ -1,7 +1,7 @@
 ## bem-vindo à minha página do github :)
 
-Sou um estudante de Redes de Computadores, que gosta de programação e "ricing's" em Linux.
-Posteriormente pretendo criar um site pessoal btw ✨
+Sou um estudante de Redes de Computadores, mas também gosto de programação e fazer ricings, especialmente no Sway.
+Posteriormente pretendo criar um site pessoal também xD
 
 <!--
 **andrllucas/andrllucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
