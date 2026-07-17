@@ -4,7 +4,7 @@ Sou um estudante de Redes de Computadores, mas também gosto de programação e 
 Posteriormente pretendo criar um site pessoal também xD
 
 <div align="center">
-  <img src="nyancat.gif">
+  <img src="helloworld.gif">
 </div>
 
 <!--
