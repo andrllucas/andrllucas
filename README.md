@@ -5,7 +5,7 @@ Posteriormente pretendo criar um site pessoal também xD
 
 <div align="center">
 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fnyan-cat&ved=0CBUQjRxqFwoTCJDqlans2ZUDFQAAAAAdAAAAABA4&opi=89978449">
+!https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fnyan-cat&ved=0CBUQjRxqFwoTCJDqlans2ZUDFQAAAAAdAAAAABA4&opi=89978449
 
 </div>
 
