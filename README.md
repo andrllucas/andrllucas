@@ -1,10 +1,15 @@
-## bem-vindo à minha página do github :)
-
-Sou um estudante de Redes de Computadores, mas também gosto de programação e fazer ricings, especialmente no Sway.
-Posteriormente pretendo criar um site pessoal também xD
-
 <div align="center">
-  <img src="helloworld.gif">
+
+  # bem-vindo à minha página do github :)
+
+___________________________________________________________________________________________________________________________________
+
+  Sou um estudante de Redes de Computadores, mas também gosto de programação e fazer ricings, especialmente no Sway. Posteriormente pretendo criar um site pessoal também xD
+
+___________________________________________________________________________________________________________________________________
+
+  <img src="helloworld.gif" width=250>
+  
 </div>
 
 <!--
